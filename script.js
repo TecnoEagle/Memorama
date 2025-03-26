@@ -5,18 +5,18 @@ generarTablero()
 
 function cargarIconos() {
     iconos = [
-        '<i class="fas fa-star"></i>',
-        '<i class="far fa-star"></i>',
-        '<i class="fas fa-star-of-life"></i>',
-        '<i class="fas fa-star-and-crescent"></i>',
-        '<i class="fab fa-old-republic"></i>',
-        '<i class="fab fa-galactic-republic"></i>',
-        '<i class="fas fa-sun"></i>',
-        '<i class="fas fa-stroopwafel"></i>',
-        '<i class="fas fa-dice"></i>',
-        '<i class="fas fa-chess-knight"></i>',
         '<i class="fas fa-chess"></i>',
-        '<i class="fas fa-dice-d20"></i>',
+        '<i class="fas fa-chess-rook"></i>',
+        '<i class="fas fa-chess-pawn"></i>',
+        '<i class="fas fa-chess-knight"></i>',
+        '<i class="fas fa-chess-king"></i>',
+        '<i class="fas fa-chess-bishop"></i>',
+        '<i class="fas fa-chess-board"></i>',
+        '<i class="fas fa-chess-queen"></i>',
+        '<i class="fas fa-headphones"></i>',
+        '<i class="fas fa-star"></i>',
+        '<i class="fas fa-cloud"></i>',
+        '<i class="fas fa-file"></i>',
     ]
 }
 
